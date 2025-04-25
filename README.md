@@ -1,0 +1,2 @@
+# Pyfun
+Python is funny.
